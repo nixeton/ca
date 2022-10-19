@@ -45,7 +45,7 @@ This is a simple configuration reading tool. It just does the following:
 To install the package run
 
 ```bash
-go get -u github.com/ilyakaznacheev/cleanenv
+go get -u https://github.com/nixeton/ca
 ```
 
 ## Usage
